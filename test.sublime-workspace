@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Vec",
+				"Vehicle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hongw/Documents/HTML/test.html",
+		"/C/Users/hongw/Downloads/TP运行库整合包 改进版/安装这个 VC运行库.exe",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/hongw/Downloads/WMMT6/Wangan Midnight Maximum Tune 6 (Namco ES3)/AMCUS/AMConfig.ini",
+		"/C/muchacd.pid",
+		"/C/amauthd.log",
+		"/C/Users/hongw/Downloads/HKG/3.MaxiTerminal/MaxiTerminal/config.json",
+		"/C/Users/hongw/Downloads/HKG/HKG/3.MaxiTerminal/MaxiTerminal/config.json",
+		"/D/WMMT6/Wangan Midnight Maximum Tune 6 (Namco ES3)/AMCUS/AMConfig.ini",
+		"/C/Users/hongw/Downloads/HKG/HKG/3.MaxiTerminal/MaxiTerminal/package.json",
+		"/C/Users/hongw/Downloads/YACardEmu-Release/config.ini.sample",
+		"/C/wamp64/www/MyWebsite/AJAX Live Search.html",
+		"/C/wamp64/www/MyWebsite/livesearch.php",
+		"/C/wamp64/www/MyWebsite/links.xml",
+		"/C/wamp64/www/MyWebsite/xml_data.xml",
+		"/C/wamp64/www/MyWebsite/friendlist.xml",
+		"/C/wamp64/www/MyWebsite/friend.html",
+		"/C/wamp64/www/MyWebsite/cd_catalog.xml",
+		"/C/wamp64/www/MyWebsite/getcd.php",
+		"/C/wamp64/www/MyWebsite/Ajax.xml",
+		"/C/wamp64/www/MyWebsite/gethint.php",
+		"/C/wamp64/www/MyWebsite/AJAX.html",
+		"/C/wamp64/www/MyWebsite/auto_complete.js",
+		"/C/wamp64/www/MyWebsite/frameworks.php",
+		"/C/wamp64/www/MyWebsite/index11.php",
+		"/C/wamp64/www/MyWebsite/databasehtml.html",
+		"/C/wamp64/www/MyWebsite/cretaedta.php",
+		"/C/wamp64/www/MyWebsite/insert.php",
+		"/C/wamp64/www/MyWebsite/connect.php",
+		"/C/wamp64/www/MyWebsite/e1.php",
+		"/C/wamp64/www/MyWebsite/Assignment 1.php",
+		"/C/wamp64/www/MyWebsite/Assignment2.php",
+		"/C/wamp64/www/MyWebsite/upload.php",
+		"/C/wamp64/www/MyWebsite/tutorial7.php",
+		"/C/wamp64/www/MyWebsite/vehicle.php",
+		"/C/wamp64/www/MyWebsite/employee.php",
+		"/C/wamp64/www/MyWebsite/cookies.php"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
